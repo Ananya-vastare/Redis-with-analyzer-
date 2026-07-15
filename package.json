@@ -1,0 +1,13 @@
+{
+    "name":"my-own-redis",
+    "version":"1.0.0",
+    "description":"A simple Redis client implementation",
+    "main":"server.js",
+    "scripts":{
+        "start":"node --watch src/server.js",
+        "test":"node tests/server.test.js"
+    },
+    "keywords": [],
+    "author":"Ananya Ravikiran Vastare",
+    "license":"ISC"
+}
