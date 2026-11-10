@@ -180,6 +180,15 @@ npm test
 ```
 
 ---
+## Results
+<img width="300" height="330" alt="Screenshot 2026-11-10 162003" src="https://github.com/user-attachments/assets/36e693ac-4a71-4d06-afa1-15bc32a0aab5" />
+
+<img width="475" height="344" alt="Screenshot 2026-11-10 162020" src="https://github.com/user-attachments/assets/6679f25c-8b00-4542-8daf-4b8aa9f12640" />
+
+<img width="471" height="684" alt="Screenshot 2026-11-10 162055" src="https://github.com/user-attachments/assets/27de50ce-b2d0-4f12-adb6-bb2d4edf5af4" />
+
+
+
 
 ## Future Improvements
 
